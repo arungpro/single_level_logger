@@ -1,0 +1,8 @@
+16:06:2017::06:08:58 Error Image for service web was built because it did not already exist. To rebuild this image you must use `docker-compose build` or `docker-compose up --build`.
+16:06:2017::06:08:59 Error lib/go/clients/generated_admin_AdminService.go' -> 'generated-code/gen-go/clients/generated_admin_AdminService.go
+16:06:2017::06:09:01 Error 'lib/go/clients/generated_admoderation_AdModerationService.go' -> 'generated-code/gen-go/clients/generated_admoderation_AdModerationService.go'
+16:06:2017::06:09:02 Error 'lib/go/clients/generated_chat_ChatService.go' -> 'generated-code/gen-go/clients/generated_chat_ChatService.go'
+16:06:2017::06:09:03 Error 'lib/go/clients/generated_warehouse_DataCollectorService.go' -> 'generated-code/gen-go/clients/generated_warehouse_DataCollectorService.go'
+16:06:2017::06:09:04 Error 'lib/go/clients/generated_offer_OfferService.go' -> 'generated-code/gen-go/clients/generated_offer_OfferService.go'
+16:06:2017::06:09:05 Error 'lib/go/clients/generated_payments_PaymentService.go' -> 'generated-code/gen-go/clients/generated_payments_PaymentService.go'
+16:06:2017::06:09:06 Error 'lib/go/clients/generated_recommender_SellerAnalyticsService.go' -> 'generated-code/gen-go/clients/generated_recommender_SellerAnalyticsService.go'
