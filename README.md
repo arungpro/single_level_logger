@@ -10,3 +10,9 @@ Due to time constraints the program is rolled out on an intend. There are sample
 Pre-requisite:
 ----------------
 Python 2.7 and above
+
+How to USE:
+------------
+
+In `logger.py` file update the `get` with search parameter and bounds you are interested.
+example: `logger.get('docker-compose', 1, 2)`
