@@ -63,7 +63,7 @@ class Logger:
 		for l in reversed(above_list):
 			print l
 
-		print matched_line
+		print '====> ' + matched_line
 
 		for l in reversed(below_list):
 			print l
