@@ -14,7 +14,7 @@ Python 2.7 and above
 How to USE:
 ------------
 
-In `logger.py` file update the `get` with search parameter and bounds you are interested.
+In `logger.py` file update the `get` call with search string and number of line bound, That you are interested.
 example: `logger.get('docker-compose', 1, 2)`
 
 ![This how it looks](https://github.com/arungpro/single_level_logger/blob/master/log.png)
