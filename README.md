@@ -16,3 +16,5 @@ How to USE:
 
 In `logger.py` file update the `get` with search parameter and bounds you are interested.
 example: `logger.get('docker-compose', 1, 2)`
+
+![This how it looks](https://github.com/arungpro/single_level_logger/blob/master/log.png)
